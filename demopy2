@@ -1,0 +1,8 @@
+x=int(input("enter a number:"))
+y=int(input("enter b number:"))
+if a==10 or b==5:
+print("valid")
+elif a==5 or b==10:
+print("valid")
+else:
+print("not valid")
